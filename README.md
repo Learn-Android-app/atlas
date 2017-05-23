@@ -63,3 +63,4 @@ See [Atlas Contributing Guide](./CONTRIBUTING.md) for more information.
 
 [云栖大会上宣布即将开源的手淘Atlas什么来头？](http://www.cnblogs.com/alibaichuan/p/5977305.html)
 [Android开发周报：阿里动态组件化框架Atlas开源、Android Studio2.3解析](http://www.infoq.com/cn/news/2017/03/Android-weekly-ali-Atlas-Studio)
+[手淘Native容器化框架发展和思考](https://yq.aliyun.com/articles/62678#)
